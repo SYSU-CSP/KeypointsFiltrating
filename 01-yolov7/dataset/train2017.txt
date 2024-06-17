@@ -1,0 +1,5 @@
+dataset/images/val2017/069531.jpg
+dataset/images/val2017/069530.jpg
+dataset/images/val2017/069529.jpg
+dataset/images/val2017/069528.jpg
+dataset/images/val2017/069527.jpg

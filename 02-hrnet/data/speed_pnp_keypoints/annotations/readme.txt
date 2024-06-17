@@ -1,0 +1,1 @@
+The two JSON files provided here are for reference only. Please refer to the COCO human keypoints annotation for detailed specifications.

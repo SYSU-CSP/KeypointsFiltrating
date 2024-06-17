@@ -1,0 +1,1 @@
+To download the pre-trained weights according to the official version instructions.

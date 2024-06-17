@@ -1,0 +1,2 @@
+1. Only the reference file train.py for training is provided here.
+2. The tango_regression.py and tango_keypoints.py files are inference examples using the Tango satellite. Additionally, the YOLOv7 weights need to be converted to ONNX format. Please refer to the official YOLOv7 documentation for the conversion method.
