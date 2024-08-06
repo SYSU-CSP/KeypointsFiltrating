@@ -36,4 +36,12 @@ Implementation of paper - [Keypoints Filtrating Nonlinear Refinement in Spatial 
   pages={5693--5703},
   year={2019}
 }
+
+@article{zhong2024keypoints,
+  title={Keypoints Filtrating Nonlinear Refinement in Spatial Target Pose Estimation with Deep Learning},
+  author={Zhong, Lijun and Chen, Shengpeng and Jin, Zhi and Guo, Pengyu and Yang, Xia},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2024},
+  publisher={IEEE}
+}
 ```
